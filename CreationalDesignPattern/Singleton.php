@@ -25,4 +25,6 @@ class Connection {
 }
 
 $con= Connection::getConnection();
+//khoa dm
 var_dump($con);
+//aaaaaa
