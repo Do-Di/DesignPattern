@@ -25,4 +25,5 @@ class Connection {
 }
 
 $con= Connection::getConnection();
+// DODI......
 var_dump($con);
